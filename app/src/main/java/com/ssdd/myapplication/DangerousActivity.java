@@ -1,4 +1,4 @@
-package com.ssdd.myapplication;
+package com.ssdd.myapplication42;
 
 import android.app.Activity;
 import android.os.Bundle;
