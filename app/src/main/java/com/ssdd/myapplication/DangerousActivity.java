@@ -1,4 +1,4 @@
-package course.labs.dangerousapp;
+package com.ssdd.myapplication;
 
 import android.app.Activity;
 import android.os.Bundle;
